@@ -29,6 +29,8 @@ js-problem-solving
 │
 ├── prime-number.js
 ├── remove-duplicate-array.js
+├── reverse-string.js
+├── largest-number-array.js
 └── 
 ```
 
