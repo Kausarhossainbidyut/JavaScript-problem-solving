@@ -1,15 +1,15 @@
 //Prime number check
 
-function checkPrimeNumber(num){
-  if(num<=1) return "Not Prime"
+function checkPrimeNumber(num) {
+  if (num <= 1) return "Not Prime";
 
-  for(let i = 2; i<num; i++){
-    if(num%i === 0){
-      return "Not Prime"
+  for (let i = 2; i < num; i++) {
+    if (num % i === 0) {
+      return "Not Prime";
     }
   }
 
-  return "Prime"
+  return "Prime";
 }
 
-console.log(checkPrimeNumber(7));
+console.log(checkPrimeNumber(6));
