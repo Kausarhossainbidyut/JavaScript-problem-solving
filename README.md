@@ -31,6 +31,8 @@ js-problem-solving
 ├── remove-duplicate-array.js
 ├── reverse-string.js
 ├── largest-number-array.js
+├── missing-number-check.js
+├── sum-array.js
 └── 
 ```
 
